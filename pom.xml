@@ -10,7 +10,7 @@
     </parent>
     <groupId>org.example</groupId>
     <artifactId>gitlab-example-artifact</artifactId>
-    <version>0.0.1-SNAPSHOT</version>
+    <version>1</version>
     <name>gitlab-example-artifact</name>
     <description>gitlab-example-artifact</description>
     <packaging>jar</packaging>
